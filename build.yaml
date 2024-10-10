@@ -17,8 +17,6 @@
 #     artifact-name: corne_left_with_logging
 #
 ---
-board: ["seeeduino_xiao_ble"]
-shield: ["moNa_L","moNa_R","settings_reset"]
 include:
   - board: seeeduino_xiao_ble
     shield: moNa_L rgbled_adapter
